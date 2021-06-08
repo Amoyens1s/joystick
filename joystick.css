@@ -1,0 +1,23 @@
+#joystickInfo {
+  position	: absolute;
+  top		: 0px;
+  width		: 100%;
+  padding		: 5px;
+  text-align	: center;
+}
+#joystickInfo a {
+  color		: #66F;
+  text-decoration	: none;
+}
+#joystickInfo a:hover {
+  text-decoration	: underline;
+}
+#joystickContainer {
+  width		: 1920px;
+  height		: 1080px;
+  overflow	: hidden;
+  padding		: 0;
+  margin		: 0;
+  user-select	: none;
+  background-color:rgba(141, 141, 113, 0.274);
+}
